@@ -2,7 +2,7 @@ import cv2
 
 inputPath = 'static/img1.jpg'
 
-orignalImage = cv2.imread(inputPath)
+originalImage = cv2.imread(inputPath)
 
 # ------------Convert image to Grayscale --------------
 
